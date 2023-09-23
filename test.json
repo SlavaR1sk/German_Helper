@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "Wie heißt du?",
+      "answers": [
+        "a) Ich bin 18 Jahre alt.",
+        "b) Ich komme aus Deutschland.",
+        "c) Ich heiße Peter.",
+        "d) Ich wohne in Berlin."
+      ],
+      "correct_answer": "c) Ich heiße Peter."
+    },
+    {
+      "question": "Woher kommst du?",
+      "answers": [
+        "a) Nein, danke.",
+        "b) Ich komme aus Köln.",
+        "c) Ich bin Student.",
+        "d) Es geht mir gut."
+      ],
+      "correct_answer": "b) Ich komme aus Köln."
+    },
+    {
+      "question": "Was ist das? (Zeig auf einen Stift)",
+      "answers": [
+        "a) Das ist ein Stift.",
+        "b) Ja, ich spreche Deutsch.",
+        "c) Ich habe Hunger.",
+        "d) Nein, danke."
+      ],
+      "correct_answer": "a) Das ist ein Stift."
+    },
+    {
+      "question": "Wie alt bist du?",
+      "answers": [
+        "a) Ja, ich bin 20 Jahre alt.",
+        "b) Nein, ich bin nicht müde.",
+        "c) Ich komme aus Frankreich.",
+        "d) Ich bin 25 Jahre alt."
+      ],
+      "correct_answer": "d) Ich bin 25 Jahre alt."
+    },
+    {
+      "question": "Welche Farbe hat die Banane?",
+      "answers": [
+        "a) Die Banane ist gelb.",
+        "b) Nein, danke.",
+        "c) Es ist 10 Uhr.",
+        "d) Mein Name ist Anna."
+      ],
+      "correct_answer": "a) Die Banane ist gelb."
+    },
+    {
+      "question": "Wann stehst du morgens auf?",
+      "answers": [
+        "a) Ich trinke gerne Tee.",
+        "b) Um 7 Uhr stehe ich auf.",
+        "c) Ja, ich arbeite in einem Büro.",
+        "d) Ich mag Filme anschauen."
+      ],
+      "correct_answer": "b) Um 7 Uhr stehe ich auf."
+    },
+    {
+      "question": "Warum lernst du Deutsch?",
+      "answers": [
+        "a) Ich wohne in Hamburg.",
+        "b) Deutsch ist eine schöne Sprache.",
+        "c) Ich habe zwei Geschwister.",
+        "d) Meine Eltern sind Lehrer."
+      ],
+      "correct_answer": "b) Deutsch ist eine schöne Sprache."
+    },
+    {
+      "question": "Was machst du am Wochenende?",
+      "answers": [
+        "a) Am Wochenende gehe ich ins Kino.",
+        "b) Ich bin 18 Jahre alt.",
+        "c) Ich esse gerne Pizza.",
+        "d) Meine Hobbys sind Schwimmen und Lesen."
+      ],
+      "correct_answer": "a) Am Wochenende gehe ich ins Kino."
+    },
+    {
+      "question": "Wohin möchtest du in den Urlaub fahren?",
+      "answers": [
+        "a) Ich mochten zu Italia fahren.",
+        "b) Ich möchte nach Italien fahren.",
+        "c) Ich nach Italien fahren",
+        "d) Möchten ich fahren nach Italien."
+      ],
+      "correct_answer": "b) Ich möchte nach Italien fahren."
+    },
+    {
+      "question": "Welches Wort ist 'Adjektiv'?",
+      "answers": [
+        "a) langweilig",
+        "b) haben",
+        "c) Kaffee",
+        "d) ich"
+      ],
+      "correct_answer": "a) langweilig"
+    },
+    {
+      "question": "Welcher Satz ist richtig? (Imperaativ)",
+      "answers": [
+        "a) Du stehst auf!",
+        "b) Aufstehen!",
+        "c) Stehe sie auf!",
+        "d) Steh auf!"
+      ],
+      "correct_answer": "d) Steh auf!"
+    },
+    {
+      "question": "Ich ____ bin nach Deutschland gekommen.",
+      "answers": [
+        "a) 'habe'",
+        "b) 'sind'",
+        "c) 'bin'",
+        "d) 'haben'"
+      ],
+      "correct_answer": "c) 'bin'"
+    },
+    {
+      "question": "Wie lange lernst du schon Deutsch?",
+      "answers": [
+        "a) Ich lerne seit einem Jahr Deutsch.",
+        "b) Ich habe viele Freunde.",
+        "c) Nein, ich spreche nicht gut Deutsch.",
+        "d) Mein Lieblingsfach ist Mathematik."
+      ],
+      "correct_answer": "a) Ich lerne seit einem Jahr Deutsch."
+    },
+    {
+      "question": "Was würdest du tun, wenn du im Lotto gewinnen würdest?",
+      "answers": [
+        "a) Ich spiele nie Lotto.",
+        "b) Ich würde eine Weltreise machen.",
+        "c) Ich habe kein Geld für Lottoscheine.",
+        "d) Ich arbeite gerne."
+      ],
+      "correct_answer": "b) Ich würde eine Weltreise machen."
+    },
+    {
+      "question": "Beschreibe dein Lieblingsbuch oder deinen Lieblingsfilm.",
+      "answers": [
+        "a) Ich lese keine Bücher.",
+        "b) Mein Lieblingsbuch ist 'Harry Potter.'",
+        "c) Ich mag keine Filme.",
+        "d) Mein Lieblingsfilm ist eine Dokumentation."
+      ],
+      "correct_answer": "b) Mein Lieblingsbuch ist 'Harry Potter.'"
+    },
+    {
+      "question": "Wem gehört das Buch?",
+      "answers": [
+        "a) Das Buch ist mir.",
+        "b) Das Buch ist dich.",
+        "c) Das Buch ist ihm.",
+        "d) Das Buch ist uns."
+      ],
+      "correct_answer": "c) Das Buch ist ihm."
+    },
+    {
+      "question": "Wo ist der Schlüssel?",
+      "answers": [
+        "a) Der Schlüssel ist mit mir.",
+        "b) Der Schlüssel ist bei mir.",
+        "c) Der Schlüssel ist für mich.",
+        "d) Der Schlüssel ist von mir."
+      ],
+      "correct_answer": "b) Der Schlüssel ist bei mir."
+    },
+    {
+      "question": "Sie spricht oft über _____ Bruder.",
+      "answers": [
+        "a) ihrem",
+        "b) seinen",
+        "c) seiner",
+        "d) ihrem"
+      ],
+      "correct_answer": "b) seinen"
+    },
+    {
+      "question": "Ich habe das Geschenk für _____ Schwester gekauft.",
+      "answers": [
+        "a) meiner",
+        "b) deiner",
+        "c) unserem",
+        "d) ihrer"
+      ],
+      "correct_answer": "d) ihrer"
+    },
+    {
+      "question": "_____ Uhrzeit ist es?",
+      "answers": [
+        "a) Welcher",
+        "b) Welches",
+        "c) Was für ein",
+        "d) Welche"
+      ],
+      "correct_answer": "d) Welche"
+    }
+  ]
+}
